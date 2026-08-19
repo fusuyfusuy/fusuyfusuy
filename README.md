@@ -87,8 +87,8 @@ platform covering 21,000+ programs and 128,000+ historical records. A KOReader p
 ### 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fusuyfusuy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fusuyfusuy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=fusuyfusuy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=fusuyfusuy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=fusuyfusuy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
