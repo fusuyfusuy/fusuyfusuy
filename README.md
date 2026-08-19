@@ -9,6 +9,12 @@ Crafting e-ink developer tools, autonomous AI agent infrastructure, and pragmati
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fusuyfusuy/fusuyfusuy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fusuyfusuy/fusuyfusuy/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fusuyfusuy/fusuyfusuy/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ### 🛠️ Featured Projects
@@ -60,6 +66,17 @@ Crafting e-ink developer tools, autonomous AI agent infrastructure, and pragmati
 - **Agentic Systems & Memory**: Context mapping, git-native task activity logs, subagent isolation, and token budget governance.
 - **Scraping & Data Pipelines**: Resilient collectors for uncooperative APIs, headless data normalization, and structured catalog generation.
 - **Self-Hosted & Network Infra**: Containerization, WireGuard/NetBird mesh setups, private telemetry, and minimal-overhead Linux tooling.
+
+---
+
+### 📊 Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fusuyfusuy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fusuyfusuy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=fusuyfusuy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
 
 ---
 
